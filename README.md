@@ -4,7 +4,7 @@ A simple mobile app that helps users track their daily commutes and view useful 
 
 Built with **React Native (Expo)** + a backend API.
 
-Link to server Repo: https://github.com/therstudio/C346-CA2-Server
+Link to server Repo: https://github.com/peatergripin/C346-CA2-Server
 
 ---
 
@@ -70,7 +70,6 @@ The screenshots below showcase the key screens of the mobile application.
     </td>
   </tr>
 </table>
----
 
 ## Video walkthrough of the app
 
